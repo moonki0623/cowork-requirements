@@ -13,7 +13,7 @@
 | M5 | 요구사항 core 항목 III | 2026-08-17~2026-09-04 | ⏳ 예정 | PRD-003·008 |
 | M6 | detail fix and stabilize | 2026-09-07~2026-09-15 | ⏳ 예정 | 잔여 fix·안정화·인수인계 |
 
-> 상태: `✅ Done` / `🔄 In Progress` / `⏳ 예정` / `⏸️ Hold`
+> 상태: `✅ Done` / `🔄 In Progress` / `⏳ 예정` / `⏸️ Hold` / `🗑 Closed`
 
 ---
 
@@ -37,7 +37,7 @@
 | 이슈 | ISSUE-012 | 함께보기 공유일정 중복 → 1개로 병합 | M | 🟡 Open | **M2** | 권현준 매니저 |
 | 이슈 | ISSUE-013 | iOS 종일일정 로컬 캘린더 하루 당겨 표시 (버그) | M | 🟡 Open | **M2** | 김동호 책임 |
 | 이슈 | ISSUE-019 | 모바일 앱 Thread 화면 상단 헤더 UI 깨짐 (버그) | M | 🟡 Open | **M2** | 김문기 매니저 |
-| 이슈 | ISSUE-020 | Threads 뷰 캘린더 플러그인 RHS 미표시 (버그) | M | 🟡 Open | **M3** | 김문기 매니저 |
+| 이슈 | ISSUE-020 | Threads 뷰 캘린더 플러그인 RHS 미표시 (버그) | M | 🗑 Closed | **M3** | 김문기 매니저 |
 | 이슈 | ISSUE-021 | 캘린더 플러그인 UX 개선(기본 7일뷰·헤더 고정폭·날짜 피커, 웹·데스크탑 한정) | M | 🟡 Open | **M2** | 김문기 매니저 |
 | PRD | PRD-008 | 웹뷰 칸반 스크롤 잠금 (View 모드) | M | ⚪ Draft | **M5** | 김동호 책임 |
 | PRD | PRD-004 | 캘린더 Day/Month View 간편화 | L | ⚪ Draft | **M2** | 권현준 매니저 |
@@ -49,7 +49,7 @@
 | PRD | PRD-001 | 마이스퀘어 회의실 예약 연계 | L | ⚪ Draft | **M2** | 권현준 매니저 |
 
 > ⚠️ PRD-001: 마이스퀘어 자원예약 API 스펙 확보가 선결 (미확보 시 블로킹·effort L→XL 가능).
-> **합계**: PRD 8건(Draft 7 / Open 1) · 이슈 16건(Done 6 / Hold 1 / Open 9)
+> **합계**: PRD 8건(Draft 7 / Open 1) · 이슈 16건(Done 6 / Hold 1 / Open 8 / Closed 1)
 
 
 ---
