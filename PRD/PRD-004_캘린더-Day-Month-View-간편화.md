@@ -46,6 +46,9 @@
 
 ---
 
+
+
+
 ## 6. 사용자 & 시나리오
 
 - 대상 사용자: 캘린더 사용자 전반
@@ -63,8 +66,8 @@ So that 먼 미래 일정도 쉽게 확인·등록한다.
 
 | ID | 요구사항 | 우선순위 | 비고 |
 |----|---------|---------|------|
-| FR-001 | Day View 신규 (모바일·데스크탑) | Must | |
-| FR-002 | Month View 신규 (모바일·데스크탑) | Must | |
+| FR-001 | Day View 신규 (모바일·데스크탑) | Must | [ISSUE-026](../issue/ISSUE-026_캘린더-Day-View.md) | |
+| FR-002 | Month View 신규 (모바일·데스크탑) | Must | [ISSUE-027](../issue/ISSUE-026_캘린더-Month-View.md) |
 | FR-003 | 사용자 디폴트 오픈 뷰 설정 | Should | |
 | FR-004 | '오늘로 바로가기' | Must | ISSUE-002 ✔️ |
 | FR-005 | 월 달력 기반 임의 날짜 이동 | Must | ISSUE-003 ✔️ |
@@ -82,15 +85,19 @@ So that 먼 미래 일정도 쉽게 확인·등록한다.
 
 ## 9. 디자인 / UI
 
-- [ ] 와이어프레임 / 목업:
+- [X] 와이어프레임 / 목업:
 - 주요 화면 흐름: 뷰 전환(일/월) → 날짜 이동 → 오늘 복귀
 
 ---
 
 ## 10. 진행 단계
 
-- [ ] 탐색 (Explore)
-- [ ] 기획 (Plan)
-- [ ] 디자인 (Design)
+- [X] 탐색 (Explore)
+- [X] 기획 (Plan)
+- [X] 디자인 (Design)
 - [ ] 개발 (Implement)
 - [ ] 검증/배포 (Verify & Ship)
+
+## 11. 자료
+
+[calendar-views_v1.pdf](https://github.com/user-attachments/files/29691845/calendar-views_v1.pdf)
