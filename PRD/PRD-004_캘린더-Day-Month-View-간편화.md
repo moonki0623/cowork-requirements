@@ -66,9 +66,9 @@ So that 먼 미래 일정도 쉽게 확인·등록한다.
 | FR-001 | Day View 신규 (모바일·데스크탑) | Must | |
 | FR-002 | Month View 신규 (모바일·데스크탑) | Must | |
 | FR-003 | 사용자 디폴트 오픈 뷰 설정 | Should | |
-| FR-004 | '오늘로 바로가기' | Must | ISSUE-002 |
-| FR-005 | 월 달력 기반 임의 날짜 이동 | Must | ISSUE-003 |
-| FR-006 | 타인 일정 저장하기 | Should | |
+| FR-004 | '오늘로 바로가기' | Must | ISSUE-002 ✔️ |
+| FR-005 | 월 달력 기반 임의 날짜 이동 | Must | ISSUE-003 ✔️ |
+| FR-006 | 타인 일정 저장하기 | Should | ISSUE-009 ✔️ |
 
 ---
 
