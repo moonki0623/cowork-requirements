@@ -149,3 +149,7 @@ So that 500 한도 내에서 실사용자 누구나 지연 없이 협업 도구�
 - [ ] 디자인 (Design)
 - [ ] 개발 (Implement)
 - [ ] 검증/배포 (Verify & Ship)
+
+
+### 참고 문서
+[유동적_사용자_관리_개발요건.pptx](https://github.com/user-attachments/files/29961644/_._._.pptx)
